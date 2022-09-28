@@ -1,5 +1,6 @@
  ### Hi 👋 I am **Alexey Krylov**
-And I'm a frontend developer :)
+{ Frontend developer } heavily influenced by visual arts, interactions and UX.
+Gravitating around design and code. Addicted to games, movies and good coffee.
 
 Here is some of my works:
 
