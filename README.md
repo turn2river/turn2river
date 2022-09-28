@@ -1,3 +1,5 @@
+ <img align="left" src="">
+ 
  ### Hi 👋 I am **Alexey**!
 { Frontend developer } heavily influenced by visual arts, interactions and UX. 
 
