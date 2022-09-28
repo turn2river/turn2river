@@ -1,5 +1,3 @@
- <img align="left" height="190px" src="./pngegg4.png">
- 
  ### Hi 👋 my name is **Alexey**!
  
 And I am:
