@@ -3,7 +3,7 @@ And I'm a frontend developer :)
 
 Here is some of my works:
 
-- Landing page for photgrapher | https://turn2river.github.io/Portfolio-landing/
+- Landing page for photgrapher | [deploy](https://turn2river.github.io/Portfolio-landing/) | [source code](https://github.com/turn2river/Portfolio-landing/tree/main/portfolio)
 
 
 ![](https://www.codewars.com/users/turn2river/badges//large)
