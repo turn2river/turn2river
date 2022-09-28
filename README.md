@@ -1,5 +1,8 @@
- ### Hi 👋 my name is **Alexey**!
+  ![wepik-photo-mode-2022829-11013](https://user-images.githubusercontent.com/72075841/192897857-7fc6ea44-35a4-403f-8453-617a280ada8a.jpeg)
  
+ ### Hi 👋 my name is **Alexey**!
+
+
 And I am:
 
 - Frontend React developer
