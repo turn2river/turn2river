@@ -8,7 +8,7 @@ And I am:
 
 - Frontend React developer
 - [Rolling Scopes School](https://rs.school/) activist
-- Addicted to a good coffee and good [movies](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-movie-app/)
+- Addicted to [games](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-random-game/), [movies](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-movie-app/) and good coffee.
 
 ---
 
