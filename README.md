@@ -1,4 +1,4 @@
- <img align="right" src="./pngegg2.png">
+ <img align="left" height="190px" src="./pngegg4.png">
  
  ### Hi 👋 my name is **Alexey**!
  
