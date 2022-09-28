@@ -1,5 +1,6 @@
-  ![wepik-photo-mode-2022829-11013](https://user-images.githubusercontent.com/72075841/192897857-7fc6ea44-35a4-403f-8453-617a280ada8a.jpeg)
- 
+
+![28005607_2205_w026_n002_1951b_p1_1951](https://user-images.githubusercontent.com/72075841/192898788-85a66289-7769-407f-83b1-e31da4a7f879.jpg)
+
  ### Hi 👋 my name is **Alexey**!
 
 
