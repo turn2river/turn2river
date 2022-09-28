@@ -1,6 +1,7 @@
  ### Hi 👋 I am **Alexey**!
-{ Frontend developer } heavily influenced by visual arts, interactions and UX.
-Gravitating around design and code. Addicted to games, movies and good coffee.
+{ Frontend developer } heavily influenced by visual arts, interactions and UX.Gravitating around design and code.
+
+Addicted to games, movies and good coffee.
 
 Here is some of my works:
 
