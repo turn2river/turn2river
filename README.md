@@ -9,6 +9,12 @@
 - [Rolling Scopes School](https://rs.school/) activist  
 - Addicted to [games](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-random-game/), [movies](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-movie-app/) and good coffee.
 
+[![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/turn2river/)
+
+### I code with these awesome things:
+
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
 
 ### Some of my pet projects:
 
