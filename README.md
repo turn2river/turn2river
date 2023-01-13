@@ -6,9 +6,13 @@
 ### And I am:
 
 - **Frontend developer** 
+
   *heavily influenced by visual arts, interactions and UX. Gravitating around design and code.*
+  
 - [Rolling Scopes School](https://rs.school/) activist 
+
   *making this comunity programming school better, helping other students and developing tasks, 160+ positive feedbacks*
+  
 - Addicted to [games](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-random-game/), [movies](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-movie-app/) and good coffee.
 
 
