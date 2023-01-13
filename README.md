@@ -23,6 +23,10 @@
 ![](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux&logoColor=magenta)
 ![](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
 
 ### Some of my pet projects:
 
