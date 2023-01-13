@@ -32,7 +32,7 @@
 
 
 ### Some of my pet projects:
-:-----------|
+|-----------|
 | [Simple to do list](https://turn2river.github.io/legendary-carnival/) |
 | [Phtographer landing page](https://turn2river.github.io/photographer-portfolio-landing/) |
 | [Movie search app (use VPN if needed)](https://turn2river.github.io/movie-search-app/) |
