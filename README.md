@@ -1,5 +1,6 @@
 
-![28005607_2205_w026_n002_1951b_p1_1951](https://user-images.githubusercontent.com/72075841/192898788-85a66289-7769-407f-83b1-e31da4a7f879.jpg)
+![28005607_2205_w026_n002_1951b_p1_1951](https://user-images.githubusercontent.com/72075841/212312220-3097c061-8c9f-4970-aa79-fe67cdd5b6c3.jpeg)
+)
 
  ### Hi 👋 my name is **Alexey**!
 
