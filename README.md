@@ -9,8 +9,6 @@
 - [Rolling Scopes School](https://rs.school/) activist  
 - Addicted to [games](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-random-game/), [movies](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-movie-app/) and good coffee.
 
-[![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/turn2river/)
-
 ### I code with these awesome things:
 
 ![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
@@ -44,9 +42,15 @@
 
 ---
 
+### Contacs
+
+[![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/turn2river/)
+
+---
+
 <img src="https://user-images.githubusercontent.com/72075841/212335840-3e807600-6092-4e6a-867e-df7b2d6f34f7.gif" alt="user" width="400"/>
 
-![](https://www.codewars.com/users/turn2river/badges//large)
+![](https://www.codewars.com/users/turn2river/badges//large) 
 
 
 
