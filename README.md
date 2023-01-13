@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/-Mobx-black?style=for-the-badge&logo=mobx&logoColor=orange)
 ![](https://img.shields.io/badge/-Styled_Components-black?style=for-the-badge&logo=styled-components&logoColor=pink)
 ![](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
-![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=GitHub&logoColor=tomato)
+![](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=tomato)
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=lime)
 ![](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=Node.JS&logoColor=lime)
