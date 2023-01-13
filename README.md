@@ -32,12 +32,11 @@
 
 
 ### Some of my pet projects:
-Links|
 :-----------|
-| [simple to do list](https://turn2river.github.io/legendary-carnival/) |
-| [phtographer landing page](https://turn2river.github.io/photographer-portfolio-landing/) |
-| [movie search app (use VPN if needed)](https://turn2river.github.io/movie-search-app/) |
-| [sidescroller game](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-random-game/) |
+| [Simple to do list](https://turn2river.github.io/legendary-carnival/) |
+| [Phtographer landing page](https://turn2river.github.io/photographer-portfolio-landing/) |
+| [Movie search app (use VPN if needed)](https://turn2river.github.io/movie-search-app/) |
+| [Sidescroller game](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-random-game/) |
 
 
 ---
