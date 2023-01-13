@@ -32,9 +32,9 @@
 
 
 ### Some of my pet projects:
-Project title|Project Deploy|Project Description|
-:-----------:|:------------:|-------------------|
-| [simple to do list](https://turn2river.github.io/legendary-carnival/) | | |
+Links|
+:-----------|
+| [simple to do list](https://turn2river.github.io/legendary-carnival/) |
 | [phtographer landing page](https://turn2river.github.io/photographer-portfolio-landing/) |
 | [movie search app (use VPN if needed)](https://turn2river.github.io/movie-search-app/) |
 | [sidescroller game](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-random-game/) |
