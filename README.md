@@ -12,7 +12,7 @@
 
 ### Some of my pet projects:
 
-[simple to do list](https://turn2river.github.io/legendary-carnival/)
+| [simple to do list](https://turn2river.github.io/legendary-carnival/) |
 
 [phtographer landing page](https://turn2river.github.io/photographer-portfolio-landing/)
 
