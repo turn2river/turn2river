@@ -3,13 +3,17 @@
 
 ## Hi 👋 my name is **Alexey**!
 
+
 ### And I am:
+
 
 - Frontend developer
 - [Rolling Scopes School](https://rs.school/) activist  
 - Addicted to [games](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-random-game/), [movies](https://rolling-scopes-school.github.io/turn2river-JSFEPRESCHOOL/js-movie-app/) and good coffee.
 
+
 ### I code with these awesome things:
+
 
 ![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
 ![](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
@@ -27,8 +31,6 @@
 ![](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=Node.JS&logoColor=lime)
 
 
-
-
 ### Some of my pet projects:
 
 | [simple to do list](https://turn2river.github.io/legendary-carnival/) |
@@ -41,6 +43,7 @@
 
 
 ---
+
 
 ### Contacs
 
