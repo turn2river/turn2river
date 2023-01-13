@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=Node.JS&logoColor=lime)
 
 
-### Some of my pet projects:
+Some of my pet projects:|
 |-----------|
 | [Simple to do list](https://turn2river.github.io/legendary-carnival/) |
 | [Phtographer landing page](https://turn2river.github.io/photographer-portfolio-landing/) |
@@ -45,6 +45,7 @@
 ### Contacs
 
 [![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/turn2river/)
+[![](https://img.shields.io/badge/-Discord-cornflowerblue?logo=discord&logoColor=white&style=for-the-badge)](discordapp.com/users/285421971670564864)
 
 ---
 
