@@ -42,7 +42,7 @@ Some of my pet projects:|
 ---
 
 
-### Contacts:
+### Contact me in:
 
 [![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/turn2river/)
 [![](https://img.shields.io/badge/-Discord-cornflowerblue?logo=discord&logoColor=white&style=for-the-badge)](discordapp.com/users/285421971670564864)
