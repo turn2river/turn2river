@@ -1,5 +1,4 @@
-![image](https://github.com/turn2river/turn2river/assets/72075841/25e7701f-fa1e-4600-94a2-21b244fddf55)
-
+![222](https://github.com/turn2river/turn2river/assets/72075841/5c0d28dd-78a5-47c5-87ac-8342f691e5ea)
 
 
 ## Hi 👋 my name is **Alexey**!
